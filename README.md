@@ -16,7 +16,7 @@
 
 - 🎓 BCA Graduate from **Nirmala College, Muvattupuzha** (2026)
 - 💻 Passionate about building scalable, secure, and user-friendly web applications
-- 🌱 Currently sharpening my skills in **Python, Django, and modern web technologies**
+- 🌱 Currently sharpening my skills in **Python, Django, PHP, HTML, CSS ,JavaScript and modern web technologies and Database Management**
 - 🛠️ Experienced in designing relational databases and role-based workflow systems
 - 📊 Skilled in data visualization using **Power BI**
 - 🤝 Strong believer in clean code, teamwork, and continuous learning
